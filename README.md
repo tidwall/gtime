@@ -1,6 +1,8 @@
+** This project has been archived. Please check out [tidwall/rtime](https://github.com/tidwall/rtime) for a better internet time library. **
+
 gtime
 =====
-[![Build Status](https://img.shields.io/travis/tidwall/gtime.svg?style=flat-square)](https://travis-ci.org/tidwall/gtime)
+
 [![GoDoc](https://img.shields.io/badge/api-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/tidwall/gtime)
 
 A Go package that helps to keep your application time in sync with Google server time.

@@ -1,4 +1,4 @@
-** This project has been archived. Please check out [tidwall/rtime](https://github.com/tidwall/rtime) for a better internet time library. **
+**This project has been archived. Please check out [tidwall/rtime](https://github.com/tidwall/rtime) for a better internet time library.**
 
 gtime
 =====
